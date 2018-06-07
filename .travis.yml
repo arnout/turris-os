@@ -1,0 +1,3 @@
+language: c
+
+script: ./compile_omnia_fw
